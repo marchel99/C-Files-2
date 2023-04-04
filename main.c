@@ -2,7 +2,7 @@
 
 int main(){
 
-printf("Push");
+printf("Push1");
 
     return 0;
 }
