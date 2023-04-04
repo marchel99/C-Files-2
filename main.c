@@ -2,7 +2,7 @@
 
 int main(){
 
-printf("zmiana");
+printf("Push");
 
     return 0;
 }
