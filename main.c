@@ -2,7 +2,7 @@
 
 int main(){
 
-printf("hAcCC");
+printf("zmiana");
 
     return 0;
 }
