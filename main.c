@@ -2,7 +2,7 @@
 
 int main(){
 
-printf("h");
+printf("hA");
 
     return 0;
 }
