@@ -40,6 +40,7 @@ printf("|||%-5d|||",5);
 //left flag
 
 
+
 printf("|||%+5d|||",5);
 //right flag
 
