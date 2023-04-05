@@ -20,5 +20,6 @@ printf(",ASCII NUMBER: %d",char1);
 
 
 
+
     return 0;
 }
