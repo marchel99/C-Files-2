@@ -5,18 +5,23 @@
 int main(){
 
 int int1=10;
-printf("%d\n",int1);
+printf("Int: %d\n",int1);
 
 unsigned u_int=5;
-printf("%d\n",u_int);
+printf("Unsigned int: %d\n",u_int);
 
 
 float float1=0.5;
-printf("%.2f\n",float1);
+printf("Float: %.2f\n",float1);
+
+double double1=0.555;
+printf("Double: %f\n",double1);
+
 
 char char1='C';
-printf("%c",char1);
+printf("Char: %c",char1);
 printf(",ASCII NUMBER: %d",char1);
+
 
 
 
