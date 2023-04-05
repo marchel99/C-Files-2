@@ -12,7 +12,7 @@ printf("%.2f\n",float1);
 
 char char1='C';
 printf("%c",char1);
-printf(",ASCII: %d",char1);
+printf(",ASCII NUMBER: %d",char1);
 
 
 
