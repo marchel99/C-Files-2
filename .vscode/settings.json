@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "delayimp.h": "c"
+        "delayimp.h": "c",
+        "string.h": "c"
     }
 }
