@@ -3,12 +3,22 @@
 int main()
 {
 
-int a=3;
+int a=2;
 
-if (a>3)
-printf("%d jest większe od 3!\n",a);
+if (a==1)
+printf("a:%d jest równe 1!\n",a);
+
+else if (a==2)
+printf("a:%d jest równe 2!\n",a);
+
+else if (a==2)
+printf("a:%d jest równe 3!!!\n",a);
+
 else
-printf("%d NIE jest większe od 3!\n",a);
+printf("%d else!\n",a);
+
+
+
 
 
 
