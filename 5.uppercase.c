@@ -2,9 +2,9 @@
 #include <stdio.h>
 #include <ctype.h>  //toUpper, toLower
 #include <string.h> //strlen
-
 int main()
 {
+    
 char s[]="abcCAS"; 
 // array of chars
 
