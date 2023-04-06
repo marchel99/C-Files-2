@@ -9,7 +9,6 @@ while (i<10){
     continue;
     printf("i: %d\n",i);
      
-
 }
 printf("loop end\n");
     return 0;
