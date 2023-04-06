@@ -4,11 +4,11 @@
 
 int main(){
 
-
-
-
-int x=5;
-printf("%d\n",x);
+int n=0;
+printf("Enter sth: ");
+scanf(" %c", &n);
+//&n memory a4ddress
+printf("Zmienna n: %d",n);
 
 
 
